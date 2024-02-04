@@ -10,7 +10,7 @@ permalink: /people/
 <div class="col">
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/chris.jpg">
+      <img src="headshot/chris.jpg">
     </div>
     <p>
       <b>Chris D. Carothers</b> <br>
@@ -20,7 +20,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/zhiling.jpg">
+      <img src="headshot/zhiling.jpg">
     </div>
     <p>
       <b>Zhiling Lan</b> <br>
@@ -30,7 +30,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/kwan-liu.jpg">
+      <img src="headshot/kwan-liu.jpg">
     </div>
     <p>
       <b>Kwuan-Liu Ma</b> <br>
@@ -40,7 +40,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/andrew.jpg">
+      <img src="headshot/andrew.jpg">
     </div>
     <p>
       <b>Andrew Norman</b> <br>
@@ -50,7 +50,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/rob.jpg">
+      <img src="headshot/rob.jpg">
     </div>
     <p>
       <b>Robert B. Ross</b> <br>
@@ -60,7 +60,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/kai.jpg">
+      <img src="headshot/kai.jpg">
     </div>
     <p>
       <b>Kai Shu</b> <br>
@@ -77,7 +77,7 @@ permalink: /people/
 <div class="col">
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/jeremy.jpg">
+      <img src="headshot/jeremy.jpg">
     </div>
     <p>
       <b>Jeremy Buhler</b> <br>
@@ -87,7 +87,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/kevin.jpg">
+      <img src="headshot/kevin.jpg">
     </div>
     <p>
       <b>Kevin A. Brown</b> <br>
@@ -96,7 +96,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/tanwi.jpg">
+      <img src="headshot/tanwi.jpg">
     </div>
     <p>
       <b>Tanwi Mallick</b> <br>
@@ -105,7 +105,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/xin.jpg">
+      <img src="headshot/xin.jpg">
     </div>
     <p>
       <b>Xin Wang</b> <br>
@@ -121,7 +121,7 @@ permalink: /people/
 <div class="col">
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/cynthia.png">
+      <img src="headshot/cynthia.png">
     </div>
     <p>
       <b>Cynthia Gonzalez</b> <br>
@@ -130,7 +130,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/elkin.jpg">
+      <img src="headshot/elkin.jpg">
     </div>
     <p>
       <b>Elkin Cruz-Camacho</b> <br>
@@ -139,7 +139,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/sanjay.jpg">
+      <img src="headshot/sanjay.jpg">
     </div>
     <p>
       <b>Sanjay Chari</b> <br>
@@ -148,7 +148,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="/assets/headshot/xiongxiao.jpg">
+      <img src="headshot/xiongxiao.jpg">
     </div>
     <p>
       <b>Xiongxiao Xu</b> <br>
