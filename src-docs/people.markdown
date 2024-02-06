@@ -5,7 +5,7 @@ layout: page
 permalink: /people/
 ---
 
-<!-- Order in proposal -->
+## Principal Investigators
 
 <div class="col">
   <div>
@@ -72,9 +72,16 @@ permalink: /people/
 
 ## Researchers
 
-<!-- Alphabetical order -->
-
 <div class="col">
+  <div>
+    <div class="image-container">
+      <img src="headshot/kevin.jpg">
+    </div>
+    <p>
+      <b>Kevin A. Brown</b> <br>
+      <i>Argonne Scholar at Argonne National Laboratory</i>
+    </p>
+  </div>
   <div>
     <div class="image-container">
       <img src="headshot/jeremy.jpg">
@@ -83,15 +90,6 @@ permalink: /people/
       <b>Jeremy Buhler</b> <br>
       <i>Professor of Computer Science and Genetics at Washington University in St. Louis</i> <br>
       Visiting professor at RPI
-    </p>
-  </div>
-  <div>
-    <div class="image-container">
-      <img src="headshot/kevin.jpg">
-    </div>
-    <p>
-      <b>Kevin A. Brown</b> <br>
-      <i>Argonne Scholar at Argonne National Laboratory</i>
     </p>
   </div>
   <div>
@@ -116,15 +114,13 @@ permalink: /people/
 
 ## PhD students
 
-<!-- Alphabetical order -->
-
 <div class="col">
   <div>
     <div class="image-container">
-      <img src="headshot/cynthia.png">
+      <img src="headshot/sanjay.jpg">
     </div>
     <p>
-      <b>Cynthia Gonzalez</b> <br>
+      <b>Sanjay Chari</b> <br>
       <i>PhD student at Rensselaer Polytechnic Institute (RPI)</i>
     </p>
   </div>
@@ -139,10 +135,10 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="headshot/sanjay.jpg">
+      <img src="headshot/cynthia.png">
     </div>
     <p>
-      <b>Sanjay Chari</b> <br>
+      <b>Cynthia Gonzalez</b> <br>
       <i>PhD student at Rensselaer Polytechnic Institute (RPI)</i>
     </p>
   </div>

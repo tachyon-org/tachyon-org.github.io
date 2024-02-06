@@ -9,6 +9,7 @@ list_title: News
 ![Figure condensing steps proposed for project](assets/images/abstract.jpg)
 
 ## Project Summary
+
 The success of DOE "big science" is increasingly tied to data analysis on extreme-scale
 distributed computing infrastructure. The DOE High Energy Physics (HEP) program in
 Neutrino and Collider science has been a key driver in applying and adapting
@@ -65,6 +66,7 @@ infrastructure and the scalable system model, visual analytic methods will be de
 for the facility performance data, systems simulators, and surrogate models.
 
 ## Project Impact
+
 Our proposed scalable system model will have a target accuracy of 90% and perform
 significantly faster than existing high-fidelity modeling approaches, yielding a highly
 valuable “what-if” planning tool for future distributed HEP experiments. More broadly,
