@@ -20,16 +20,6 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="headshot/kevin.jpg">
-    </div>
-    <p>
-      <b>Kevin A. Brown</b> <br>
-      <i>Argonne Scholar at Argonne National Laboratory</i> <br>
-      Co-P.I.
-    </p>
-  </div>
-  <div>
-    <div class="image-container">
       <img src="headshot/zhiling.jpg">
     </div>
     <p>
@@ -66,6 +56,16 @@ permalink: /people/
       <b>Robert B. Ross</b> <br>
       <i>Senior Computer Scientist at Argonne National Laboratory</i> <br>
       Lead Co-P.I.
+    </p>
+  </div>
+  <div>
+    <div class="image-container">
+      <img src="headshot/kevin.jpg">
+    </div>
+    <p>
+      <b>Kevin A. Brown</b> <br>
+      <i>Argonne Scholar at Argonne National Laboratory</i> <br>
+      Co-P.I.
     </p>
   </div>
   <div>
