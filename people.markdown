@@ -14,8 +14,18 @@ permalink: /people/
     </div>
     <p>
       <b>Chris D. Carothers</b> <br>
-      <i>Professor of Computer Science at Rensselaer Polytechnic Institute (RPI)</i>  <br>
+      <i>Professor of Computer Science at Rensselaer Polytechnic Institute (RPI)</i> <br>
       Lead P.I.
+    </p>
+  </div>
+  <div>
+    <div class="image-container">
+      <img src="headshot/kevin.jpg">
+    </div>
+    <p>
+      <b>Kevin A. Brown</b> <br>
+      <i>Argonne Scholar at Argonne National Laboratory</i> <br>
+      Co-P.I.
     </p>
   </div>
   <div>
@@ -25,7 +35,7 @@ permalink: /people/
     <p>
       <b>Zhiling Lan</b> <br>
       <i>Professor of Computer Science at University of Illinois Chicago (UIC)</i> <br>
-      Co-P.I.
+      Lead Co-P.I.
     </p>
   </div>
   <div>
@@ -35,7 +45,7 @@ permalink: /people/
     <p>
       <b>Kwuan-Liu Ma</b> <br>
       <i>Distinguished Professor of Computer Science at University of California Davis (UCD)</i> <br>
-      Co-P.I.
+      Lead Co-P.I.
     </p>
   </div>
   <div>
@@ -45,7 +55,7 @@ permalink: /people/
     <p>
       <b>Andrew Norman</b> <br>
       <i>Senior Scientist at Fermi National Accelerator Laboratory</i> <br>
-      Co-P.I.
+      Lead Co-P.I.
     </p>
   </div>
   <div>
@@ -55,7 +65,7 @@ permalink: /people/
     <p>
       <b>Robert B. Ross</b> <br>
       <i>Senior Computer Scientist at Argonne National Laboratory</i> <br>
-      Co-P.I.
+      Lead Co-P.I.
     </p>
   </div>
   <div>
@@ -75,15 +85,6 @@ permalink: /people/
 <div class="col">
   <div>
     <div class="image-container">
-      <img src="headshot/kevin.jpg">
-    </div>
-    <p>
-      <b>Kevin A. Brown</b> <br>
-      <i>Argonne Scholar at Argonne National Laboratory</i>
-    </p>
-  </div>
-  <div>
-    <div class="image-container">
       <img src="headshot/jeremy.jpg">
     </div>
     <p>
@@ -98,7 +99,8 @@ permalink: /people/
     </div>
     <p>
       <b>Tanwi Mallick</b> <br>
-      <i>Computer Specialist at Argonne National Laboratory</i>
+      <i>Computer Specialist at Argonne National Laboratory</i> <br>
+      Senior Personel
     </p>
   </div>
   <div>
