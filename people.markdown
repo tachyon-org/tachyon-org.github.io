@@ -119,6 +119,15 @@ permalink: /people/
 <div class="col">
   <div>
     <div class="image-container">
+      <img src="headshot/allison.jpg">
+    </div>
+    <p>
+      <b>Allison Austin</b> <br>
+      <i>PhD student at University of California Davis (RPI)</i>
+    </p>
+  </div>
+  <div>
+    <div class="image-container">
       <img src="headshot/sanjay.jpg">
     </div>
     <p>
@@ -142,6 +151,15 @@ permalink: /people/
     <p>
       <b>Cynthia Gonzalez</b> <br>
       <i>PhD student at Rensselaer Polytechnic Institute (RPI)</i>
+    </p>
+  </div>
+  <div>
+    <div class="image-container">
+      <img src="headshot/yu-chia.jpg">
+    </div>
+    <p>
+      <b>Yu-Chia Huang</b> <br>
+      <i>PhD student at University of California Davis (RPI)</i>
     </p>
   </div>
   <div>
