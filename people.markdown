@@ -146,7 +146,7 @@ permalink: /people/
   </div>
   <div>
     <div class="image-container">
-      <img src="headshot/cynthia.png">
+      <img src="headshot/cynthia.jpg">
     </div>
     <p>
       <b>Cynthia Gonzalez</b> <br>
