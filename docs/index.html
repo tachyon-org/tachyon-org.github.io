@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Tachyon | DOE Tachyon Project (description here)</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Tachyon" />
+<meta name="author" content="DOE" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="DOE Tachyon Project (description here)" />
+<meta property="og:description" content="DOE Tachyon Project (description here)" />
+<link rel="canonical" href="/tachyon/" />
+<meta property="og:url" content="/tachyon/" />
+<meta property="og:site_name" content="Tachyon" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tachyon" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"DOE"},"description":"DOE Tachyon Project (description here)","headline":"Tachyon","name":"Tachyon","url":"/tachyon/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/tachyon/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/tachyon/feed.xml" title="Tachyon" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/tachyon/">Tachyon</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/tachyon/code/">Code</a><a class="page-link" href="/tachyon/news/">News</a><a class="page-link" href="/tachyon/people/">People</a><a class="page-link" href="/tachyon/publications/">Publications</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
+
+  <div class="post-content">
+    <p><img src="assets/images/abstract.jpg" alt="Figure condensing steps proposed for project" /></p>
+
+<h2 id="project-summary">Project Summary</h2>
+
+<p>The success of DOE “big science” is increasingly tied to data analysis on extreme-scale
+distributed computing infrastructure. The DOE High Energy Physics (HEP) program in
+Neutrino and Collider science has been a key driver in applying and adapting
+data-intensive science and simulation codes to extreme-scale platforms. These complex,
+highly distributed workflows will continue to push the limits of current and future
+extreme-scale systems, especially as they evolve to utilize increasingly sophisticated
+AI/ML techniques for their data analysis. For example, the next generation of neutrino
+oscillation experiments, led by the DUNE experiment, are based on the liquid argon time
+project chamber technology. These detectors generate petabytes of high-resolution image
+data that capture high-energy, complex interactions of neutrinos on argon nuclei and allow
+for the measurement of fundamental parameters in the neutrino mixing model. The expected
+data rates for the DUNE far detectors (located 1,000 miles from FNAL) are capable of
+producing 6 GB of readout data per 5 milliseconds, providing a resolution, fidelity, and
+data volume nearly 300 times greater than the equivalent interactions being captured with
+the current generation technologies. Components of this high-fidelity experimental data
+stream are intended to be analyzed in near real-time, requiring leadership-class computing
+resources to do so. The hierarchy of complex, high-performance computing, network, and
+storage components, as well as pathways from the experimental and leadership computing
+facilities, need to be <em>modeled</em>, <em>analyzed</em>, and <em>tuned</em> to meet the necessary response
+times and resiliency to disruption under nominal and atypical operational conditions.</p>
+
+<p>To address this modeling grand challenge and build on past successful collaborations, the
+<strong>Tachyon Project</strong> five-institution team proposes a framework that enables the scalable
+modeling, simulation, and validation of key performance characteristics for the Fermilab
+(FNAL) to Argonne Leadership Computing Facility (ALCF) distributed infrastructure and
+associated HEP workflows. Our proposed framework is a multi-scale HEP workflow simulation
+model that will accurately model and predict the end-to-end workflow performance over the
+wide range of timescales and job/system failure scenarios that a resilient distributed HEP
+infrastructure must operate now and in the future.</p>
+
+<p>The proposed research program is divided into Core Research Tasks (CRTs) and leverages
+design outcomes from the DOE EXPRESS <em>Kronos</em> Project  as well as the CODES systems
+modeling framework to integrate complementary modeling methodologies: <em>parallel
+discrete-event simulation (PDES)</em>, <em>surrogate machine learning (ML) models</em> and <em>analytic
+models</em> into an overall <em>scalable system model</em> (CRT T3). This scalable system model is
+coupled with extensive facility-supported performance data (CRT T1), resilient job
+scheduling (CRT T2), and highly informative visualization and performance analysis (CRT
+T4).</p>
+
+<p>The <strong>Tachyon Project</strong> will model the entire HEP distributed infrastructure and workflow
+campaign by creating surrogate ML models that are trained using both historical facility
+data as well as massively parallel CODES-generated simulation data that has been validated
+using extensive interactive visualization and analysis of the data and models via facility
+performance data repositories. By leveraging validated, high-fidelity CODES simulation
+data, we are able to dramatically increase the predictive range of surrogate ML models
+beyond the preset job and system configurations contained within current historical
+performance data repositories.</p>
+
+<p>To capture the importance of resiliency, job placement, and scheduling in our scalable
+system modeling framework, the CQSim scheduling simulator will be extended and integrated
+with CODES to enable workflow-centric/facility-centric scheduling and reliability
+modeling. To address the need for understanding phenomena in both the real distributed
+infrastructure and the scalable system model, visual analytic methods will be developed
+for the facility performance data, systems simulators, and surrogate models.</p>
+
+<h2 id="project-impact">Project Impact</h2>
+
+<p>Our proposed scalable system model will have a target accuracy of 90% and perform
+significantly faster than existing high-fidelity modeling approaches, yielding a highly
+valuable “what-if” planning tool for future distributed HEP experiments. More broadly,
+<em>scalable modeling</em> of distributed HEP systems and exploring their stability will allow us
+to design workflow topologies and operational envelopes which will match the mission
+demands of other distributed science domains. In turn, the Tachyon Project scalable system
+modeling framework will maximize the impact of the DOE’s investment in distributed
+infrastructures like FNAL and ALCF by improving their resiliency and increasing the rate
+of scientific discoveries across the breadth of the DOE’s experimental and computing
+resources.</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/tachyon/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Tachyon</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">DOE</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/codes-org"><svg class="svg-icon"><use xlink:href="/tachyon/assets/minima-social-icons.svg#github"></use></svg> <span class="username">codes-org</span></a></li><li><a href="/tachyon/feed.xml"><svg class="svg-icon"><use xlink:href="/tachyon/assets/minima-social-icons.svg#rss"></use></svg> <span>News</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>DOE Tachyon Project (description here)</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
