@@ -7,7 +7,8 @@ The success of DOE ``big science'' is increasingly tied to data analysis on extr
 ructure. The DOE High Energy Physics (HEP) program in Neutrino and Collider science has been a key driver in applying a
 nd adapting data-intensive science and simulation codes to extreme-scale platforms. These complex, highly distributed w
 orkflows will continue to push the limits of current and future extreme-scale systems, especially as they evolve to ut\
-lize increasingly sophisticated AI/ML techniques for their data analysis. For example, the next generation of neutrino oscillation experiments, led by the DUNE experiment, are based on the liquid argon time project chamber technology. The
+lize increasingly sophisticated AI/ML techniques for their data analysis. For example, the next generation of neutrino 
+oscillation experiments, led by the DUNE experiment, are based on the liquid argon time project chamber technology. The
 se detectors generate petabytes of high-resolution image data that capture high-energy, complex interactions of neutrin
 os on argon nuclei and allow for the measurement of fundamental parameters in the neutrino mixing model. The expected d
 ata rates for the DUNE far detectors (located 1,000 miles from FNAL) are capable of producing 6 GB of readout data per 
@@ -18,7 +19,7 @@ ions being captured with the current generation technologies. Components of this
  leadership computing facilities, need to be {\em modeled}, {\em analyzed}, and {\em tuned} to meet the necessary respo
 nse times and resiliency to disruption under nominal and atypical operational conditions.
 
-To address this modeling grand challenge and build on past successful collaborations, the {\bf Tachyon Project} five-in
+To address this modeling grand challenge and build on past successful collaborations, the *Tachyon Project* five-in
 stitution team proposes a framework that enables the scalable modeling, simulation, and validation of key performance c
 haracteristics for the Fermilab (FNAL) to Argonne Leadership Computing Facility (ALCF) distributed infrastructure and a
 ssociated HEP workflows. Our proposed framework is a multi-scale HEP workflow simulation model that will accurately mod
@@ -26,8 +27,8 @@ el and predict the end-to-end workflow performance over the wide range of timesc
 hat a resilient distributed HEP infrastructure must operate now and in the future.
 
 The proposed research program is divided into Core Research Tasks (CRTs) and leverages design outcomes from the DOE EXP
-RESS {\em Kronos} Project~\cite{anl-kronos-webpage} as well as the CODES systems modeling framework to integrate comple
-mentary modeling methodologies: {\em parallel discrete-event simulation (PDES)}, {\em surrogate machine learning (ML) m
+RESS {\em Kronos} Project as well as the CODES systems modeling framework to integrate comple
+mentary modeling methodologies: parallel discrete-event simulation (PDES), surrogate machine learning (ML) m
 odels} and {\em analytic models} into an overall {\em scalable system model} (CRT T3). This scalable system model is co
 upled with extensive facility-supported performance data (CRT T1), resilient job scheduling (CRT T2), and  highly infor
 mative visualization and performance analysis (CRT T4).
