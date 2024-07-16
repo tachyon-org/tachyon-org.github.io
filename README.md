@@ -29,7 +29,7 @@ See one of the examples inside `_posts` and follow their template. If lost, goog
 Continuosly build and run http server with:
 
 ```bash
-bundle exec jekyll serve --baseurl ''
+bundle exec jekyll serve -d docs
 ```
 
 Now go to: <http://localhost:4000>
