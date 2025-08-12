@@ -75,7 +75,7 @@ permalink: /people/
     <p>
       <b>Kai Shu</b> <br>
       <i>Assistant Professor at Illinois Institute of Technology (IIT)</i> <br>
-      Co-P.I.
+      Co-P.I. 2023-2024
     </p>
   </div>
 </div>
@@ -90,7 +90,7 @@ permalink: /people/
     <p>
       <b>Jeremy Buhler</b> <br>
       <i>Professor of Computer Science and Genetics at Washington University in St. Louis</i> <br>
-      Visiting professor at RPI
+      Visiting professor at RPI 2023-2024
     </p>
   </div>
   <div>
@@ -123,7 +123,7 @@ permalink: /people/
     </div>
     <p>
       <b>Allison Austin</b> <br>
-      <i>PhD student at University of California Davis (RPI)</i>
+      <i>PhD student at University of California Davis (UCD)</i>
     </p>
   </div>
   <div>
@@ -141,7 +141,8 @@ permalink: /people/
     </div>
     <p>
       <b>Elkin Cruz-Camacho</b> <br>
-      <i>PhD student at Rensselaer Polytechnic Institute (RPI)</i>
+      <i>PhD student at Rensselaer Polytechnic Institute (RPI)</i> <br>
+      Funded by Tachyon 2023-2025
     </p>
   </div>
   <div>
@@ -159,7 +160,27 @@ permalink: /people/
     </div>
     <p>
       <b>Yu-Chia Huang</b> <br>
-      <i>PhD student at University of California Davis (RPI)</i>
+      <i>PhD student at University of California Davis (UCD)</i>
+    </p>
+  </div>
+  <div>
+    <div class="image-container">
+      <img src="headshot/pietro.jpg">
+    </div>
+    <p>
+      <b>Pietro Lodi Rizzini</b> <br>
+      <i>PhD student at University of Illinois Chicago (UIC)</i> <br>
+      Funded by Tachyon 2023-2024
+    </p>
+  </div>
+  <div>
+    <div class="image-container">
+      <img src="headshot/sharma.jpg">
+    </div>
+    <p>
+      <b>Shambhawi Sharma</b> <br>
+      <i>PhD student at University of Illinois Chicago (UIC)</i> <br>
+      Funded by Tachyon 2024-2025
     </p>
   </div>
   <div>
@@ -168,7 +189,8 @@ permalink: /people/
     </div>
     <p>
       <b>Xiongxiao Xu</b> <br>
-      <i>PhD student at Illinois Institute of Technology (IIT)</i>
+      <i>PhD student at Illinois Institute of Technology (IIT)</i> <br>
+      Funded by Tachyon 2023-2024
     </p>
   </div>
 </div>
